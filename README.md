@@ -27,7 +27,7 @@ If you have questions or need assistance, you can reach out to us by opening an 
 
 ## License
 
-This project is licensed under the [GNU Public License](LICENSE) - see the [License](LICENSE) file for details.
+This project is licensed under the [Mozilla Public License](LICENSE) - see the [License](LICENSE) file for details.
 
 ## Acknowledgments
 
