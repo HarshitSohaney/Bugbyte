@@ -1,4 +1,10 @@
+
+<div align="center">
+    <img src="https://github.com/HarshitSohaney/Bugbyte/assets/73911621/4f006788-8d22-4a55-9ea6-3fdcb37c9016" width="200" height="200" alt="SyllabyteLogo">
+</div>
+
 # Bugbyte
+
 Welcome to Bugbyte, the issue collection repository for Syllabyte! This repository serves as a platform for users to submit and discuss issues, bugs, or feature requests related to syllabyte. Your feedback and contributions are highly valued, and this is the place to make your voice heard.
 
 ## Getting Started
