@@ -21,17 +21,13 @@ Before you start contributing, please take a moment to read through the guidelin
 
 This repository follows a [Code of Conduct](CODE_OF_CONDUCT.md) to create a welcoming and inclusive environment for all contributors. Please familiarize yourself with it and be respectful and kind when participating.
 
-### Reporting Security Issues
-
-If you discover a security vulnerability, please report it privately by emailing us at [security@example.com](mailto:security@example.com). We will work to address the issue promptly.
-
 ## Getting Help
 
 If you have questions or need assistance, you can reach out to us by opening an issue or contacting us through our official support channels.
 
 ## License
 
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU Public License](LICENSE) - see the [License](LICENSE) file for details.
 
 ## Acknowledgments
 
