@@ -23,6 +23,12 @@ Before you start contributing, please take a moment to read through the guidelin
 
 5. **Discussion**: Engage in discussions with other contributors and maintainers in the issue's comments. This helps in refining ideas and reaching a consensus.
 
+### Course Requests
+
+In Syllabyte's current version, user's are not allowed to create courses. User's can instead request for a course to be added. To request for a course to be added onto Syllabyte, file an issue with the label **course request**. The title has to be of the form (fill in University Name and Course Code/Name accordingly):
+```
+Request for new course - <University Name> : <Course Code> <Course Name>
+```
 ### Code of Conduct
 
 This repository follows a [Code of Conduct](CODE_OF_CONDUCT.md) to create a welcoming and inclusive environment for all contributors. Please familiarize yourself with it and be respectful and kind when participating.
