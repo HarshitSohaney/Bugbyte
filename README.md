@@ -29,6 +29,8 @@ In Syllabyte's current version, user's are not allowed to create courses. User's
 ```
 Request for new course - <University Name> : <Course Code> <Course Name>
 ```
+Provide an email as the point of contact and we will reach out to you for further steps.
+
 ### Code of Conduct
 
 This repository follows a [Code of Conduct](CODE_OF_CONDUCT.md) to create a welcoming and inclusive environment for all contributors. Please familiarize yourself with it and be respectful and kind when participating.
