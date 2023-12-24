@@ -25,11 +25,11 @@ Before you start contributing, please take a moment to read through the guidelin
 
 ### Course Requests
 
-In Syllabyte's current version, user's are not allowed to create courses. User's can instead request for a course to be added. To request for a course to be added onto Syllabyte, file an issue with the label **course request**. The title has to be of the form (fill in University Name and Course Code/Name accordingly):
+In Syllabyte's current version, user's are not allowed to create courses. User's can instead request for a course to be added. To request for a course to be added onto Syllabyte, send an email to harshit.sohaney@mail.utoronto.ca with your course syllabi. The title has to be of the form (fill in University Name and Course Code/Name accordingly):
 ```
 Request for new course - <University Name> : <Course Code> <Course Name>
 ```
-Provide an email as the point of contact and we will reach out to you for further steps.
+Provide an email as the point of contact and we will reach out to you when the courses are added to the database.
 
 ### Code of Conduct
 
