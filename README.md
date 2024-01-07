@@ -23,6 +23,11 @@ Before you start contributing, please take a moment to read through the guidelin
 
 5. **Discussion**: Engage in discussions with other contributors and maintainers in the issue's comments. This helps in refining ideas and reaching a consensus.
 
+### Feature Requests
+
+Submit an issue with the tag feature-request!
+Alternatively, feel free to email me at harshit.sohaney@mail.utoronto.ca if that's more convinient for you.
+
 ### Course Requests
 
 In Syllabyte's current version, user's are not allowed to create courses. User's can instead request for a course to be added. To request for a course to be added onto Syllabyte, send an email to harshit.sohaney@mail.utoronto.ca with your course syllabi. The title has to be of the form (fill in University Name and Course Code/Name accordingly):
