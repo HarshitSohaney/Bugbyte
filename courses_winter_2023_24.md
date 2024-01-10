@@ -2,11 +2,14 @@
 ## Winter Semester 2023-24
 
 ### University of Toronto
-*no courses added yet*
+- ECE353 Systems Software
 
 ### University of Waterloo
-*no courses added yet*
-
+- STAT341 Computational Statistics & Data Analysis
+- AMATH342 Computational Methods for Differential Equations
+- AMATH382 Computational Modelling of Cellular Systems
+- MUSIC140 Popular Music
+  
 ### University of British Columbia
 *no courses added yet*
 
@@ -17,4 +20,4 @@
 *no courses added yet*
 
 ### Vellore Institute of Technology - Chennai
-*no courses added yet*
+- MEE1904 Capstone Project
